@@ -102,11 +102,6 @@ body {
     line-height: 18px;
 }
 
-/* #par-color-1, #par-color-2, #par-color-3, #par-color-4 {
-    color: hsl(0, 1%, 60%);
-} */
-
-
 .profile-para p{
     color: hsl(0, 1%, 60%);
 }
